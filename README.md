@@ -57,3 +57,7 @@ As imagens a seguir servem como um contraponto e análise comparativa. Elas demo
 ## Reflexão e Conclusão
 
 A análise das imagens geradas, em contraste com a bibliografia visual, revela um avanço notável na capacidade das IAs generativas de replicar texturas, luz e composição de forma convincente. O produto final alcançou um alto nível de **realismo e naturalidade**, mostrando que a linha entre o conteúdo "Natural" e o "Fake Natty" está cada vez mais tênue, e destacando o potencial dessas ferramentas para a criação rápida e versátil de conteúdo visual de alta qualidade.
+
+![Alt text](https://i.imgur.com/kUthJPy.png)
+![GitHub Logo](https://i.imgur.com/kUthJPy.png)
+<img src="https://i.imgur.com/kUthJPy.png" alt="Logo" width="200"/>
