@@ -57,7 +57,7 @@ As imagens a seguir servem como um contraponto e análise comparativa. Elas demo
 > | **Alçando Voo** | *Crie uma imagem de um carcará alçando voo.* | ![voo](https://i.imgur.com/sIb0K8q.png) |
 > | **Caçando** | *Crie uma nova imagem de um carcará caçando.* | ![caça](https://i.imgur.com/U1Oq7rU.png) |
 > | **Pousado** | *Crie uma nova imagem de um carcará pousado em um galho.* | ![galho](https://i.imgur.com/LTMYlId.png) |
-> | **Ninho** | *Crie uma nova imagem de um carcará no ninho com seu parceiro.* | ![ninho](https://i.imgur.com/JIuF81B.png)) |
+> | **Ninho** | *Crie uma nova imagem de um carcará no ninho com seu parceiro.* | ![ninho](https://i.imgur.com/JIuF81B.png) |
 > | **Voando** | *Crie uma nova imagem de um carcará voando.* | ![voando](https://i.imgur.com/kUthJPy.png) |
 
 ---
