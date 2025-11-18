@@ -36,6 +36,8 @@ O processo se baseou em ciclos de *prompting* e refinamento:
 ## Bibliografia
 As imagens a seguir servem como um contraponto e análise comparativa. Elas demonstram que, dependendo da evolução do modelo de criação de imagens e da especificidade do prompt, os resultados podem nem sempre ser acurados em recriar um animal de forma natural e biologicamente realista em comparação com as referências atuais.
 
+![foto1](outros/Fotos-caracara-andes-rei-ceu.webp)
+
 ## Resultados
 
 [Insira aqui os resultados do seu projeto, seja por meio de links para as imagens geradas, ou criando uma galeria/tabela de comparação (ex: prompt usado vs. imagem gerada).]
@@ -44,8 +46,11 @@ As imagens a seguir servem como um contraponto e análise comparativa. Elas demo
 >
 > | Cenário | Prompt Utilizado (Exemplo) | Imagem Gerada |
 > | :--- | :--- | :--- |
-> | **Alçando Voo** | *Crie uma imagem de um carcará alçando voo ao pôr do sol, sobre a paisagem do Cerrado.* | [Link para Imagem] |
-> | **Caçando Cobra** | *Crie uma nova imagem de um carcará caçando uma cobra, em close-up, com foco nítido no movimento.* | [Link para Imagem] |
+> | **Alçando Voo** | *Crie uma imagem de um carcará alçando voo.* | ![voo](gemini/IMG_20251118_163553.png) |
+> | **Caçando** | *Crie uma nova imagem de um carcará caçando.* | ![caça](gemini/IMG_20251118_163431.png) |
+> | **Pousado** | *Crie uma nova imagem de um carcará pousado em um galho.* | ![galho](gemini/IMG_20251118_163519.png) |
+> | **Ninho** | *Crie uma nova imagem de um carcará no ninho com seu parceiro.* | ![ninho](gemini/IMG_20251118_163339.png) |
+> | **Voando** | *Crie uma nova imagem de um carcará voando.* | ![voando](gemini/IMG_20251118_163633.png) |
 
 ---
 
