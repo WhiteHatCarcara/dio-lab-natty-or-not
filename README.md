@@ -37,6 +37,11 @@ O processo se baseou em ciclos de *prompting* e refinamento:
 As imagens a seguir servem como um contraponto e análise comparativa. Elas demonstram que, dependendo da evolução do modelo de criação de imagens e da especificidade do prompt, os resultados podem nem sempre ser acurados em recriar um animal de forma natural e biologicamente realista em comparação com as referências atuais.
 
 <img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091010/Fotos-caracara-plancus-olhar-ceu-azul.webp" alt="Logo" width="300">
+<img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091051/Fotos-caracara-plancus-presa-olhar-asa.webp" alt="Logo" width="300">
+<img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091139/Fotos-carcara-plancus-ave-poderosa.webp" alt="Logo" width="300">
+<img src="hhttps://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091209/Fotos-caracara-planus-voo-ceu-poder.webp" alt="Logo" width="300">
+<img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091306/Fotos-caracara-andes-rei-ceu.webp" alt="Logo" width="300">
+
 
 ## Resultados
 
