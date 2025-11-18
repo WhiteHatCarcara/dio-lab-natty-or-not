@@ -36,28 +36,22 @@ O processo se baseou em ciclos de *prompting* e refinamento:
 ## Bibliografia
 As imagens a seguir servem como um contraponto e análise comparativa. Elas demonstram que, dependendo da evolução do modelo de criação de imagens e da especificidade do prompt, os resultados podem nem sempre ser acurados em recriar um animal de forma natural e biologicamente realista em comparação com as referências atuais.
 
-![foto1](outros/Fotos-caracara-andes-rei-ceu.webp)
+<img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091010/Fotos-caracara-plancus-olhar-ceu-azul.webp" alt="Logo" width="300">
 
 ## Resultados
-
-[Insira aqui os resultados do seu projeto, seja por meio de links para as imagens geradas, ou criando uma galeria/tabela de comparação (ex: prompt usado vs. imagem gerada).]
 
 > **Exemplo de Estrutura de Resultados:**
 >
 > | Cenário | Prompt Utilizado (Exemplo) | Imagem Gerada |
 > | :--- | :--- | :--- |
-> | **Alçando Voo** | *Crie uma imagem de um carcará alçando voo.* | ![voo](gemini/IMG_20251118_163553.png) |
-> | **Caçando** | *Crie uma nova imagem de um carcará caçando.* | ![caça](gemini/IMG_20251118_163431.png) |
-> | **Pousado** | *Crie uma nova imagem de um carcará pousado em um galho.* | ![galho](gemini/IMG_20251118_163519.png) |
-> | **Ninho** | *Crie uma nova imagem de um carcará no ninho com seu parceiro.* | ![ninho](gemini/IMG_20251118_163339.png) |
-> | **Voando** | *Crie uma nova imagem de um carcará voando.* | ![voando](gemini/IMG_20251118_163633.png) |
+> | **Alçando Voo** | *Crie uma imagem de um carcará alçando voo.* | ![voo](https://i.imgur.com/sIb0K8q.png) |
+> | **Caçando** | *Crie uma nova imagem de um carcará caçando.* | ![caça](https://i.imgur.com/U1Oq7rU.png) |
+> | **Pousado** | *Crie uma nova imagem de um carcará pousado em um galho.* | ![galho](https://i.imgur.com/LTMYlId.png) |
+> | **Ninho** | *Crie uma nova imagem de um carcará no ninho com seu parceiro.* | ![ninho](https://i.imgur.com/JIuF81B.png)) |
+> | **Voando** | *Crie uma nova imagem de um carcará voando.* | ![voando](https://i.imgur.com/kUthJPy.png) |
 
 ---
 
 ## Reflexão e Conclusão
 
 A análise das imagens geradas, em contraste com a bibliografia visual, revela um avanço notável na capacidade das IAs generativas de replicar texturas, luz e composição de forma convincente. O produto final alcançou um alto nível de **realismo e naturalidade**, mostrando que a linha entre o conteúdo "Natural" e o "Fake Natty" está cada vez mais tênue, e destacando o potencial dessas ferramentas para a criação rápida e versátil de conteúdo visual de alta qualidade.
-
-![Alt text](https://i.imgur.com/kUthJPy.png)
-![GitHub Logo](https://i.imgur.com/kUthJPy.png)
-<img src="https://i.imgur.com/kUthJPy.png" alt="Logo" width="200"/>
