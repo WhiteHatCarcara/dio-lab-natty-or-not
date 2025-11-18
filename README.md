@@ -29,19 +29,24 @@ Este trabalho envolveu a criação iterativa de imagens usando o modelo de gera�
 O processo se baseou em ciclos de *prompting* e refinamento:
 
 1.  **Pesquisa de Referência:** Coleta de imagens e dados sobre o carcará e seu habitat (Cerrado/Caatinga) para garantir a precisão dos detalhes.
-2.  **Elaboração de Prompts:** Criação de comandos de texto detalhados e específicos, focando em atributos como iluminação, cenário, ação (ex: "carcará caçando uma serpente", "pousado em galho de árvore do cerrado").
+2.  **Elaboração de Prompts:** Criação de comandos de texto detalhados e específicos, focando em atributos como iluminação, cenário, ação (ex: "carcará caçando", "pousado em galho de árvore do cerrado").
 3.  **Geração Iterativa:** Geração de múltiplas imagens pelo Gemini e seleção das mais realistas e naturais.
 
 ---
 ## Bibliografia
 As imagens a seguir servem como um contraponto e análise comparativa. Elas demonstram que, dependendo da evolução do modelo de criação de imagens e da especificidade do prompt, os resultados podem nem sempre ser acurados em recriar um animal de forma natural e biologicamente realista em comparação com as referências atuais.
 
+<p align="center">
+
+
+
+
 <img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091010/Fotos-caracara-plancus-olhar-ceu-azul.webp" alt="Logo" width="300">
 <img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091051/Fotos-caracara-plancus-presa-olhar-asa.webp" alt="Logo" width="300">
 <img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091139/Fotos-carcara-plancus-ave-poderosa.webp" alt="Logo" width="300">
-<img src="hhttps://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091209/Fotos-caracara-planus-voo-ceu-poder.webp" alt="Logo" width="300">
+<img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091209/Fotos-caracara-planus-voo-ceu-poder.webp" alt="Logo" width="300">
 <img src="https://imagensblogs.nyc3.digitaloceanspaces.com/meuverdejardim/2023/05/31091306/Fotos-caracara-andes-rei-ceu.webp" alt="Logo" width="300">
-
+</p>
 
 ## Resultados
 
